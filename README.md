@@ -1,4 +1,12 @@
-# 👨‍💻 Kassem Al Kassem
+# 👋 Hi, I'm Kassem Al Kassem
+### Software Engineer | AI & Machine Learning Enthusiast
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Scalability-blue?style=flat-square" alt="Focus">
+</p>
+
+---
 
 ## 🚀 Overview
 
@@ -7,6 +15,15 @@ This repository showcases the development of a modern AI-powered web application
 The project reflects a strong focus on **software engineering principles, API design, and AI integration**, making it suitable for both academic and practical applications.
 
 ---
+
+### 🚀 Professional Snapshot
+- 🔭 **Current Focus:** Building high-performance software architectures and AI-driven solutions.
+- 🌱 **Learning Lab:** Deepening expertise in Neural Networks and Cloud Infrastructure.
+- 💬 **Ask me about:** Python, Software Development Life Cycle (SDLC), and System Design.
+- ⚡ **Philosophy:** "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
 
 ## ✨ Key Features
 
@@ -28,7 +45,6 @@ The application is built using a modular architecture that separates concerns ac
 * **AI Engine** – Processes text using machine learning models
 
 ---
-
 ## 🛠️ Technologies Used
 
 * **Programming Languages:** JavaScript / TypeScript
@@ -38,8 +54,35 @@ The application is built using a modular architecture that separates concerns ac
 * **AI Integration:** OpenAI API / NLP Models
 * **Version Control:** Git & GitHub
 
----
 
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+### 📈 GitHub Ecosystem
+<p align="left">
+ <a href="https://github.com/KassemAlKassem">
+  <img src="https://github-readme-stats.vercel.app/api?username=KassemAlKassem&show_icons=true&theme=radical&hide_border=true" alt="Kassem's GitHub Stats" height="150" />
+ </a>
+ <a href="https://github.com/KassemAlKassem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KassemAlKassem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+ </a>
+</p>
+
+---
 ## 📂 Project Structure
 
 ```
