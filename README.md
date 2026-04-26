@@ -1,21 +1,48 @@
-# 👋 Hi, I'm Kassem Al Kassem
-### Software Engineer | AI & Machine Learning Enthusiast
+# 👨‍💻 Kassem Al Kassem
+🚀 Senior Information Management Specialist | Data Systems | AI & Machine Learning & Full-Stack Development
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Scalability-blue?style=flat-square" alt="Focus">
 </p>
 
----
 
+
+
+---
 ## 🚀 Overview
+Senior Information Management & MEL Coordinator with 12+ years of experience supporting international organizations and USAID-funded projects in Lebanon.
+
+I specialize in designing data-driven systems, real-time dashboards, and scalable information solutions, with a strong focus on data integrity, system security, and analytics.
+Currently expanding into AI-powered applications and full-stack development.
 
 This repository showcases the development of a modern AI-powered web application designed to enhance text processing workflows. The system integrates advanced language models with a scalable architecture to provide real-time grammar correction, paraphrasing, and formatting capabilities.
 
 The project reflects a strong focus on **software engineering principles, API design, and AI integration**, making it suitable for both academic and practical applications.
 
----
 
+---
+🎓 Education
+* Master in Computer Science – AUL
+* Bachelor in Computer Communication Engineering – LIU
+
+---
+📜 Certifications
+* MCSE (Microsoft Certified Solutions Associate)
+* Oracle Administration
+* Cisco Networking Academy
+* Data Analysis (SQL, Power BI, Tableau, Python)
+
+---
+## 💼 Experience Highlights
+- 📊 Built Power BI dashboards for real-time decision-making
+- 📈 Managed USAID reporting systems (PPR, PIRS, PMP)
+- 🛠️ Designed data collection & management systems
+- 🔐 Implemented data security, backup, and integrity protocols
+- 👨‍🏫 Led training programs for NGOs and field teams
+
+---
 ### 🚀 Professional Snapshot
 - 🔭 **Current Focus:** Building high-performance software architectures and AI-driven solutions.
 - 🌱 **Learning Lab:** Deepening expertise in Neural Networks and Cloud Infrastructure.
@@ -46,6 +73,11 @@ The application is built using a modular architecture that separates concerns ac
 
 ---
 ## 🛠️ Technologies Used
+
+* 📊 Data & Analytics
+  * Power BI, Tableau
+  * SQL, Python
+  * Kobo Toolbox, ODK, SurveyMonkey
 
 * **Programming Languages:** JavaScript / TypeScript
 * **Frontend:** React (or similar framework)
@@ -83,39 +115,14 @@ The application is built using a modular architecture that separates concerns ac
 </p>
 
 ---
-## 📂 Project Structure
 
-```
-├── src/
-│   ├── components/     # UI components
-│   ├── pages/          # Application pages
-│   ├── graphql/        # Queries & mutations
-│   ├── services/       # API & AI integrations
-│
-├── public/             # Static assets
-├── package.json
-└── README.md
-```
+🎯 Career Focus
+* Data-driven decision systems
+* AI-powered applications
+* Scalable and secure architectures
 
 ---
 
-## ⚙️ Getting Started
-
-### Installation
-
-```bash
-git clone https://github.com/KassemAlKassem/Kassem-Al-Kaasem.git
-cd Kassem-Al-Kaasem
-npm install
-```
-
-### Run the Application
-
-```bash
-npm start
-```
-
----
 
 ## 🔄 Workflow
 
@@ -153,7 +160,11 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork the 
 ![Kassem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KassemAlKassem&theme=radical&hide_border=true)
 
 ---
+⭐ Final Note
 
+This repository reflects my transition toward combining information management, software engineering, and AI technologies to build impactful and scalable solutions.
+
+---
 ### 📫 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/kassemalkassem-90ba6212a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
