@@ -7,25 +7,26 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Scalability-blue?style=flat-square" alt="Focus">
 </p>
 
-
-
-
 ---
 ## 🚀 Overview
-Senior Information Management & MEL Coordinator with 12+ years of experience supporting international organizations and USAID-funded projects in Lebanon.
+Senior Information Management & MEL Coordinator with 12+ years of experience working with international organizations and USAID-funded projects in Lebanon.
 
-I specialize in designing data-driven systems, real-time dashboards, and scalable information solutions, with a strong focus on data integrity, system security, and analytics.
-Currently expanding into AI-powered applications and full-stack development.
+I specialize in designing data systems, real-time dashboards, and scalable information solutions that support decision-making and operational efficiency.
 
-This repository showcases the development of a modern AI-powered web application designed to enhance text processing workflows. The system integrates advanced language models with a scalable architecture to provide real-time grammar correction, paraphrasing, and formatting capabilities.
-
-The project reflects a strong focus on **software engineering principles, API design, and AI integration**, making it suitable for both academic and practical applications.
-
+Currently expanding into AI-powered applications and full-stack development to bridge data, automation, and modern software systems.
 
 ---
 🎓 Education
 * Master in Computer Science – AUL
 * Bachelor in Computer Communication Engineering – LIU
+
+---
+💼 Core Expertise
+* 📊 Data Management & Analytics (Power BI, SQL, Python)
+* 📈 Monitoring, Evaluation & Reporting (USAID frameworks)
+* 🛠️ Information System Design & Architecture
+* 🔐 Data Security & Integrity Protocols
+* 🤖 AI Integration & Automation
 
 ---
 📜 Certifications
