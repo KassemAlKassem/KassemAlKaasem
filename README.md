@@ -20,6 +20,153 @@ Currently expanding into AI-powered applications and full-stack development to b
 * Master in Computer Science – AUL
 * Bachelor in Computer Communication Engineering – LIU
 
+
+---
+
+## 🚀 Projects
+
+---
+
+### 🌐 [ImpactFlow AI](https://github.com/KassemAlKassem/Humanitarian-Development-Peace)
+> **AI-Powered Data Orchestration Platform for the HDP Nexus**
+
+**Aim:** Eliminate the "Efficiency Tax" in International NGOs — where up to 40% of staff time is lost in manual reporting and data handling. ImpactFlow AI acts as an intelligent translation layer between raw field data (KoboToolbox, ODK, Excel) and standardized donor reporting systems (USAID, UNHCR, EU ECHO).
+
+**Key Features:**
+- 📊 Real-time KPI Dashboard with impact trend analytics
+- 🗄️ Multi-source Data Ingestion with AI normalization
+- 📄 Automated Donor-Compliant Reporting Engine (USAID, UNHCR, EU ECHO)
+- 🤖 Predictive Risk Modeling & AI Insights
+- 🛡️ Donor-Facing Transparency Portal with immutable audit trail
+- 🌍 Multilingual UI: English / Arabic (RTL) / French
+- ⚙️ Full Settings panel with notification preferences
+
+**Languages & Tools:** `TypeScript` `React 18` `Vite` `Recharts` `CSS3` `i18n`
+
+---
+
+### 🛡️ NetMonitor — Network Security Dashboard
+> **Real-Time Cybersecurity Monitoring Platform**
+
+**Aim:** Provide security teams and IT administrators with a live, recruiter-facing cybersecurity dashboard that monitors network threats, manages Windows Firewall rules, and visualizes threat intelligence in real time.
+
+**Key Features:**
+- Live network traffic and threat visualization
+- Windows Firewall integration for IP threat isolation
+- Mobile-responsive design with dark mode
+- Real-time anomaly detection and alerting
+
+**Languages & Tools:** `React` `Node.js` `TypeScript` `CSS3` `Windows Firewall API`
+
+---
+
+### 🔐 Cybersecurity AI Engine — Continuous Authentication
+> **Keystroke-Based Behavioral Biometric Authentication System**
+
+**Aim:** Protect systems from unauthorized access by continuously verifying user identity through **keystroke dynamics** — behavioral patterns unique to each user — without interrupting their workflow.
+
+**Key Features:**
+- Behavioral biometric profiling from keystroke timing
+- Real-time risk scoring and anomaly detection
+- Training mode to create personalized biometric profiles
+- Guardian monitoring mode for live session protection
+
+**Languages & Tools:** `Python` `Scikit-learn` `NumPy` `Pandas` `Machine Learning`
+
+---
+
+### 📊 Data Analysis Dashboard
+> **Interactive Business Intelligence & Analytics Platform**
+
+**Aim:** Provide organizations with a powerful, interactive dashboard to visualize and analyze their data — turning raw datasets into actionable business insights through dynamic charts and KPI tracking.
+
+**Key Features:**
+- Interactive data visualizations (bar, line, pie, area charts)
+- Real-time data filtering and drill-down analysis
+- KPI tracking and trend analysis
+- Export capabilities for reports
+
+**Languages & Tools:** `React` `TypeScript` `Recharts` `Node.js` `CSS3`
+
+---
+
+### 💸 Smart Expenses — Personal Finance Tracker
+> **AI-Assisted Expense Management Application**
+
+**Aim:** Help individuals and small teams track, categorize, and analyze their spending habits with intelligent categorization and budget forecasting — making personal finance management effortless.
+
+**Key Features:**
+- Automatic expense categorization
+- Budget vs. actual spending analysis
+- Visual spending breakdowns and trends
+- Multi-currency support
+
+**Languages & Tools:** `React` `TypeScript` `Node.js` `CSS3` `Chart.js`
+
+---
+
+### 📄 Silent CV Analyzer
+> **AI-Powered Resume Screening & Analysis Tool**
+
+**Aim:** Automate and improve the CV screening process for HR teams and recruiters by using NLP to extract, score, and rank candidate profiles against job descriptions — reducing manual review time by up to 80%.
+
+**Key Features:**
+- NLP-based CV parsing and information extraction
+- Skill matching against job descriptions
+- Candidate scoring and ranking engine
+- Full-stack with Express backend and React frontend
+
+**Languages & Tools:** `Python` `NLP` `Node.js` `Express` `React` `TypeScript`
+
+---
+
+### 📋 Plagiarism Detection System
+> **AI-Powered Academic & Content Integrity Checker**
+
+**Aim:** Detect plagiarism and content similarity in academic submissions and written content using advanced NLP similarity algorithms — protecting content integrity for educators, publishers, and content teams.
+
+**Key Features:**
+- Text similarity scoring using NLP algorithms
+- Side-by-side comparison view
+- Batch document processing
+- REST API backend with React frontend
+
+**Languages & Tools:** `Python` `NLP` `Flask` `React` `TypeScript`
+
+---
+
+### 📈 Data Analyst Generator
+> **Automated Data Analysis & Report Generation Tool**
+
+**Aim:** Enable non-technical users to upload datasets and automatically receive comprehensive data analysis, visualizations, and narrative insights — democratizing data analytics without requiring coding knowledge.
+
+**Key Features:**
+- Automatic statistical analysis of uploaded datasets
+- AI-generated narrative insights
+- Dynamic chart generation
+- Export to PDF and Excel
+
+**Languages & Tools:** `Python` `Pandas` `React` `Node.js` `TypeScript`
+
+---
+
+### 🧹 CCleaner — App Cleanup Manager
+> **Cross-Platform Application Cleanup & Optimization Tool**
+
+**Aim:** Help users manage, clean, and optimize installed applications and system resources on their devices — improving performance and freeing up storage through an intuitive mobile-friendly interface.
+
+**Key Features:**
+- Installed app scanning and management
+- Junk file detection and cleanup
+- Storage usage visualization
+- Cross-platform support (iOS/Android via Expo)
+
+**Languages & Tools:** `React Native` `Expo` `TypeScript` `JavaScript`
+
+---
+
+
+
 ---
 💼 Core Expertise
 * 📊 Data Management & Analytics (Power BI, SQL, Python)
