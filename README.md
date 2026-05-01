@@ -15,6 +15,8 @@ I specialize in designing data systems, real-time dashboards, and scalable infor
 
 Currently expanding into AI-powered applications and full-stack development to bridge data, automation, and modern software systems.
 
+I build intelligent, scalable web applications and AI-driven platforms that solve real-world problems — from donor reporting automation to cybersecurity monitoring and expense tracking.
+
 ---
 🎓 Education
 * Master in Computer Science – AUL
