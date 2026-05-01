@@ -24,12 +24,24 @@ I build intelligent, scalable web applications and AI-driven platforms that solv
 
 
 ---
+## 🛠️ Tech Stack
 
+| Category | Technologies |
+|---|---|
+| **Frontend** | React 18, TypeScript, Vite, HTML5, CSS3, Recharts |
+| **Backend** | Node.js, Express.js, Python, FastAPI |
+| **Data & AI** | Python (Pandas, Scikit-learn), GPT-4 API, NLP, Predictive Modeling |
+| **Databases** | PostgreSQL, MongoDB, Firebase |
+| **APIs & Integrations** | REST, GraphQL, KoboToolbox API, ODK Central |
+| **DevOps** | Git, GitHub, Vercel, Docker |
+| **Languages** | JavaScript, TypeScript, Python, SQL |
+
+---
 ## 🚀 Projects
 
 ---
 
-### 🌐 Humanitarian-Development-Peace
+### 🌐 Humanitarian, Development & Peacebuilding program management
 > **AI-Powered Data Orchestration Platform for the HDP Nexus**
 
 **Aim:** Eliminate the "Efficiency Tax" in International NGOs — where up to 40% of staff time is lost in manual reporting and data handling. ImpactFlow AI acts as an intelligent translation layer between raw field data (KoboToolbox, ODK, Excel) and standardized donor reporting systems (USAID, UNHCR, EU ECHO).
