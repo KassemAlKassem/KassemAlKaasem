@@ -234,21 +234,6 @@ The application is built using a modular architecture that separates concerns ac
 * **AI Engine** – Processes text using machine learning models
 
 ---
-## 🛠️ Technologies Used
-
-* 📊 Data & Analytics
-  * Power BI, Tableau
-  * SQL, Python
-  * Kobo Toolbox, ODK, SurveyMonkey
-
-* **Programming Languages:** JavaScript / TypeScript
-* **Frontend:** React (or similar framework)
-* **Backend:** Node.js
-* **API:** GraphQL
-* **AI Integration:** OpenAI API / NLP Models
-* **Version Control:** Git & GitHub
-
-
 ### 🛠 Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
